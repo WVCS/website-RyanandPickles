@@ -1,5 +1,10 @@
 @charset "utf-8";
 
+body {
+  margin: 0;
+  background-color: cyan;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
